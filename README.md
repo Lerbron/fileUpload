@@ -21,3 +21,6 @@ yarn start(或node index)
 
 2、/upload  接收上传的文件内容，并将文件从默认的路径，移到目标文件夹中、重命名
 3、/merge 文件上传完成之后，合并、生成该文件
+
+#### 参考文献
+<a href='https://github.com/jiaozitang/fileUploadDemo'>Node + H5 实现大文件分片上传、断点续传</a>
